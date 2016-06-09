@@ -40,7 +40,8 @@ namespace SFMLApp
 
         public void MouseUp(object sender, MouseButtonEventArgs e)
         {
-            view.MainForm.Size = new Vector2u(512, 372);
+            //view.MainForm.Size = new Vector2u(512, 372);
+            
         }
 
         public void MouseMove(object sender, MouseMoveEventArgs e)
